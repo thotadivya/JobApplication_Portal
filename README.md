@@ -35,7 +35,7 @@ The portal provides functionalities for job seekers to search for jobs, submit a
 
 ## Updated ER Diagram
 
- <img src="fdb_final_er (4).pdf" alt="Divya Lakshmi Thota" width ="300" height="400" class="ER" />
+ <img src="fdb_final_er (4).pdf" alt="ER Diagram" width ="300" height="400" class="ER" />
 
 
 ## Cardinalities
