@@ -34,7 +34,7 @@ Thorough testing was conducted to ensure seamless integration and functionality,
 The portal provides functionalities for job seekers to search for jobs, submit applications, and manage profiles, while employers can manage job postings and review applications.
 
 ## Updated ER Diagram
-![ER Diagram](path/to/ER_Diagram.png)
+![ER Diagram](fdb_final_er (4).pdf)
 
 ## Cardinalities
 - **Users** have a one-to-many relationship with **Applied_JobPosts**, **Education**, **User_Notifications**, **Company_Reviews**.
