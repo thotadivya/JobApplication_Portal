@@ -36,7 +36,7 @@ The portal provides functionalities for job seekers to search for jobs, submit a
 ## Updated ER Diagram
 ![ER Diagram]
 
-
+fdb_final_er (4).pdf
 ## Cardinalities
 - **Users** have a one-to-many relationship with **Applied_JobPosts**, **Education**, **User_Notifications**, **Company_Reviews**.
 - **Company** has a one-to-many relationship with **Job_Post** and a many-to-one relationship with **Industry**.
