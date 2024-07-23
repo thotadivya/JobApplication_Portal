@@ -5,10 +5,7 @@ This project aims to revolutionize the recruitment process by integrating robust
 ## Team Members
 - **Divya Lakshmi Thota** (divyalakshmithota@my.unt.edu)
 - Vishal Rachuri
-- Sai Varshith Gandu
-- Sushil Banka
-- Teegala Tejasvi
-- Lalitha Nali
+- Sree Charan Vanam
 
 ## Abstract
 Our Job Application Portal is designed to enhance the recruitment process by providing an intuitive user interface and essential collaborations for successful job matching and management. This report covers the development and deployment of this essential recruitment tool.
